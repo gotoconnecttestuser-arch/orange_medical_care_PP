@@ -16,6 +16,17 @@ We do not sell or rent mobile numbers. We do not share mobile numbers or SMS con
 
 We may provide the minimum necessary information to service providers that help us deliver or support requested text messages. They may use it only to provide those services for us. We may also disclose information when required by law or to protect rights and safety. SMS opt-in data and consent will not be shared with third parties or affiliates for their own purposes.
 
+Consumer Contact Information
+If you have questions about our SMS communications or privacy practices, please contact the message sender using the contact information provided on our website.
+
+SMS Data Transfers
+Your data will not be transferred to external organizations.
+
+SMS Opt-Out and Help
+
+To stop receiving SMS messages, reply STOP at any time.
+For assistance, reply HELP.
+
 Privacy and security
 We use reasonable safeguards for information handled through our SMS program. Standard text messages may not be encrypted end-to-end and could be seen by someone with access to your phone or notifications. We aim to keep messages limited to administrative and service-related information, but cannot guarantee the privacy or delivery of a text message.
 
